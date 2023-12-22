@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Rasniya</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A Passionate Backend developer</h3>
 
 - 🔭 I’m currently working on [zymsi](https://zymsi.com)
 
 - 🌱 I’m currently learning **React and Some api's**
 
-- 💬 Ask me about **Django and Reast-Api**
+- 💬 Ask me about **Django and Rest-Api**
 
 - 📫 How to reach me **yashrasniya3@gmail.com**
 
